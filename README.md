@@ -1,7 +1,7 @@
 #### Welcome to my GitHub! <img src="https://slackmojis.com/emojis/137256-hello-cat/download" width="27" />
 I'm Arsen, a computer science student and developer currently studying in Paris.
 
-ght now, I am pursuing my degree at [**Sorbonne University**](https://www.sorbonne-universite.fr/), while dedicating my time to crafting a personal portfolio of work that represents my journey in software engineering.
+Right now, I am pursuing my degree at [**Sorbonne University**](https://www.sorbonne-universite.fr/), while dedicating my time to crafting a personal portfolio of work that represents my journey in software engineering.
 
 For me, software development is about the balance between efficiency and simplicity. 
 
